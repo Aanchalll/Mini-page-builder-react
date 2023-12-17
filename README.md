@@ -1,14 +1,14 @@
-# Getting Started with Create React App
+# Getting Started with Mini Page Builder React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
 ### Instructions to Run:
 
 1. Clone the Repository:
-git clone {link}
-cd your-repo
-
+git clone https://github.com/Aanchalll/Mini-page-builder-react.git
+cd your-reposagdas
+   
 2. Install Dependencies:
 npm install
 
